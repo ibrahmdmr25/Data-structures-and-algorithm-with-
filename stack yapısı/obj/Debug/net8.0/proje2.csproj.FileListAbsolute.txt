@@ -1,0 +1,14 @@
+C:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje2\bin\Debug\net8.0\proje2.exe
+C:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje2\bin\Debug\net8.0\proje2.deps.json
+C:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje2\bin\Debug\net8.0\proje2.runtimeconfig.json
+C:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje2\bin\Debug\net8.0\proje2.dll
+C:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje2\bin\Debug\net8.0\proje2.pdb
+C:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje2\obj\Debug\net8.0\proje2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje2\obj\Debug\net8.0\proje2.AssemblyInfoInputs.cache
+C:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje2\obj\Debug\net8.0\proje2.AssemblyInfo.cs
+C:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje2\obj\Debug\net8.0\proje2.csproj.CoreCompileInputs.cache
+C:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje2\obj\Debug\net8.0\proje2.dll
+C:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje2\obj\Debug\net8.0\refint\proje2.dll
+C:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje2\obj\Debug\net8.0\proje2.pdb
+C:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje2\obj\Debug\net8.0\proje2.genruntimeconfig.cache
+C:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje2\obj\Debug\net8.0\ref\proje2.dll
